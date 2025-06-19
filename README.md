@@ -70,9 +70,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
  
-  <a href="https://numba.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numba/numba-original.svg" alt="numba" width="40" height="40"/> 
-  </a> 
+  
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
   </a> 
@@ -88,27 +86,18 @@
 
 <h3 align="left">Robotics:</h3>
 <p align="left"> 
-  <a href="https://www.webots.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webots/webots-original.svg" alt="webots" width="40" height="40"/> 
-  </a> 
+  
   <a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" alt="gazebo" width="40" height="40"/> 
   </a> 
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> 
   </a> 
-  <a href="https://www.st.com/en/microcontrollers/stm32.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stm32/stm32-original.svg" alt="STM32" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.espressif.com/en/products/hardware/esp32/overview" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/esp32/esp32-original.svg" alt="ESP32" width="40" height="40"/> 
-  </a> 
+   
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/> 
   </a> 
-  <a href="https://beagleboard.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/beaglebone/beaglebone-original.svg" alt="beaglebone black" width="40" height="40"/> 
-  </a> 
+  
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> 
   </a> 
