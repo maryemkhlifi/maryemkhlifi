@@ -30,12 +30,7 @@
   </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros2" width="40" height="40"/> 
+   
   </a> 
   <a href="https://www.labview.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original.svg" alt="labview" width="40" height="40"/> 
@@ -107,9 +102,6 @@
   </a> 
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.ansys.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansys/ansys-original.svg" alt="ansys" width="40" height="40"/> 
   </a> 
   <a href="https://www.st.com/en/microcontrollers/stm32.html" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stm32/stm32-original.svg" alt="STM32" width="40" height="40"/> 
