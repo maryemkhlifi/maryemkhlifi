@@ -1,14 +1,14 @@
 
 
 <h1 align="center">Hi 👋, I'm khlifi Maryem</h1>
-<h3 align="center">A passionate web developer from tunisia</h3>
+<h3 align="center">A passionate AI engineer from tunisia</h3>
 <img align="right" alt="coding" width="400" src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/JavaScript-code.jpg?itok=1Wia7hH0" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khlifimariem&label=Profile%20views&color=0e75b6&style=flat" alt="khlifimariem" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **angular**
+- 🌱 I’m currently learning about **Generative AI**
 
 - 📫 How to reach me **khlifimariem53@gmail.com**
 
