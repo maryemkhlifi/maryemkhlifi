@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm khlifi Maryem</h1>
-<h3 align="center">Embedded AI engineer from tunisia</h3>
+<h3 align="center"> AI engineer from tunisia</h3>
 <img align="right" alt="coding" width="400" src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/JavaScript-code.jpg?itok=1Wia7hH0" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khlifimariem&label=Profile%20views&color=0e75b6&style=flat" alt="khlifimariem" /> </p>
